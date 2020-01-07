@@ -7,9 +7,5 @@ Eğer sözlüğünüzde olmayan bir kelimeye rasladıysanız Bu kelimeyi sözlü
 
 ##################################################################################
 
-Gerekli "Dictionary.sql" dosyasını kendi serverınıza ekleyerek çalıştırabilirsiniz.
-
-proje ile ilgili geri biildirimleriniz için ergeak@gmail.com adresinden bize ulaşabilirsiniz
-
 bu proje Erge AKOVA ve İsmail KILDİŞ Tarafından Geliştirilmiştir.
 
