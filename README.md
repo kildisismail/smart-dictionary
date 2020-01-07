@@ -1,4 +1,4 @@
-﻿# Dictionary
+﻿# Smart-Dictionary
 
 Proje İngilizce Türkçe çeviri ve kelime öğrenme  programıdır. 
 kelime öğrenmenize yardımcı olacak şekilde belirli bir sürecin takibini yapabilir.
